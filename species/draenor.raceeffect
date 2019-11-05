@@ -1,0 +1,40 @@
+{
+	"stats": [
+		{
+			"stat": "shadowResistance", "amount": 0.3
+		},
+		{
+			"stat": "physicalResistance", "amount": 0.1
+		}
+	],
+	"diet" : "omnivore",
+	},
+	"envEffects": [{
+		"biomes": [
+			"crystalmoon",
+			"crystaldesert",				
+      "desertwastes",
+			"crystaldesertaether",
+			"crystalplain",
+			"crystalswamp",
+			"crystalswampaether"
+		],
+		"stats": [{
+				"stat": "protection",
+				"effectiveMultiplier": 1.1
+			}
+		],
+	"weaponEffects": [{
+			"weapons": [	"mace", "spear", "hammer" ],
+			"stats": [{
+					"stat": "physicalResistance",
+					"amount": 0.15
+				},
+				{
+					"stat": "powerMultiplier",
+					"baseMultiplier": 1.12
+				}
+			]
+		}
+	]
+}
