@@ -1,0 +1,19 @@
+[
+    { "op": "replace", 
+    "path" : "/charCreationTooltip/description" ,
+    "value" : "The Draenei are a faction of uncorrupted Eredar who fled their home world of Argus."
+
+Diet: Anything
+
+^orange;Perks^reset;:
+Resist: 30%; Shadow Resist
+ 
+^orange;Environment^reset;:
+Crystal biome increases defense.
+ 
+^orange;Weapons^reset;:
+Hammer, Spear, Mace: +10% Damage
+^red;Weaknesses^reset;:
+"
+    }
+]
